@@ -5,6 +5,7 @@ This repository aims to be a base setup for local development for gcp / kubernet
 The environment exists of:
 - minikube kubernetes cluster
 - gcloud pubsub emulator deployment / service
+- gcloud bigtable emulator deployment / service
 
 ## Starting the development environment
 
